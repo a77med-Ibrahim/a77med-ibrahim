@@ -15,9 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=a77med-Ibrahim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#LeetCode Stats:
-<div align="center">
-    <img src="https://leetcard.jacoblin.cool/ahmedibrahim51836" alt="Leetcode Stats">
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
