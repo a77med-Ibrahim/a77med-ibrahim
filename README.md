@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I am Ahmed Ibrahim<br>💻 I am interested in Full-Stack development, and Software Development
+👋Hi, I am Ahmed Ibrahim<br>💻 I am interested in Full-Stack development.
 
 
 # 💻 Tech Stack:
