@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I am Ahmed Ibrahim<br>💻 I am interested in AI & Full-Stack development.
+👋Hi, I am Ahmed Hamouda<br>💻 I am interested in AI & Full-Stack development.
 
 
 # 💻 Tech Stack:
